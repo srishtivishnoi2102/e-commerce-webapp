@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-webapp",
+  "version": "1.0.0",
+  "description": "A backend application for e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srishtivishnoi2102/e-commerce-webapp.git"
+  },
+  "author": "Srishti Vishnoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srishtivishnoi2102/e-commerce-webapp/issues"
+  },
+  "homepage": "https://github.com/srishtivishnoi2102/e-commerce-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
